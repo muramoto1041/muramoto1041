@@ -1,4 +1,4 @@
-Excel / Access / ASP.NET で、Azure SQL と 連携したアプリケーションを開発しています。
+Excel / Access で、Azure SQL と 連携したアプリケーションを開発しています。
 
 
 
