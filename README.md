@@ -11,8 +11,7 @@ muramoto1041/muramoto1041は ✨ 特別な ✨ リポジトリです。その `R
 
 そのため打合せ不足のまま新しいシステムを開発し、検収時に操作や機能の違いを指摘されることが多く発生します。「現システム」との違いをなくすには、今までの操作を残し新しい操作と切り替える操作の方がトラブルが少ないでしょう。
 
-<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/muramoto1041/20250709/20250709093052.png" alt="代替テキスト" width="366" height="215">
-<br/>
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/muramoto1041/20250709/20250709093052.png" width="366" height="215"><br/>
  
 ## 今までの操作を残しつつ、新システムに移行するには
 今までの操作を残すには、旧システムのプログラムソースを残すことになります。
